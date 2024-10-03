@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pattaramet and I'm a Wev developer and UI/UX Designer from Thailand</h2>
+<h2 align="left">Hi 👋! My name is Pattaramet and I'm a Web developer and UI/UX Designer from Thailand</h2>
 
 ###
 
